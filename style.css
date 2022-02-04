@@ -226,7 +226,8 @@ h4{
 }
 
 .categories .cover-1{
-    background:url(https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/cover-1.jpg) no-repeat center center / cover;
+    background: url(https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/cover-1.jpg) 
+        no-repeat center center / cover;
 }
 .categories .cover-2{
     background:url('../img/cover-2.jpg') no-repeat center center / cover;
