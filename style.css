@@ -266,7 +266,7 @@ h4{
 
 /*Live Sports*/
 .live-sports{
-    background: url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/live-sports-small.jpg') no-repeat center center / cover;
+    background: url('../img/live-sports.jpg') no-repeat center center / cover;
     height: 800px;
     position: relative;
 }
