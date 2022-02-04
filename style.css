@@ -236,7 +236,7 @@ h4{
     background:url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/cover-3.jpg') no-repeat center center / cover;
 }
 .categories .cover-4{
-    background:url('../img/cover-4.jpg') no-repeat center center / cover;
+    background:url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/cover-4.jpg') no-repeat center center / cover;
 }
 
 
@@ -266,7 +266,7 @@ h4{
 
 /*Live Sports*/
 .live-sports{
-    background: url('../img/live-sports.jpg') no-repeat center center / cover;
+    background: url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/live-sports-small.jpg') no-repeat center center / cover;
     height: 800px;
     position: relative;
 }
@@ -286,7 +286,7 @@ h4{
     justify-content: space-between;
 }
 .live-sports-logos>div{
-    background: url('../img/network-logo-bg.png') no-repeat center center / cover;
+    background: url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/network-logo-bg.png') no-repeat center center / cover;
     height: 60px;
     width: 60px;
     display: flex;
@@ -465,7 +465,7 @@ h4{
         padding: 30px 10px;
     }
     .live-sports{
-        background: url('../img/live-sports-small.jpg') no-repeat center center / cover;
+        background: url('https://asmitaporwal.github.io/Hulu-Webpage-Clone/img/live-sports-small.jpg') no-repeat center center / cover;
     }
 
     .live-sports-content{
